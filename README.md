@@ -1,16 +1,34 @@
-# React + Vite
+# 🤖 AI Chat Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, responsive AI chat application built with React that uses Google's Gemini AI to answer your questions. Features chat history, quick questions, and a clean UI.
 
-Currently, two official plugins are available:
+![AI Chat Screenshot](https://img.shields.io/badge/Live-Demo-brightgreen) ![React](https://img.shields.io/badge/React-18-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 **[Try it Live on GitHub Pages](https://yourusername.github.io/ai-chat-app)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 💬 **Chat with AI** - Ask anything and get intelligent responses
+- 📚 **Chat History** - View and manage all your previous conversations
+- 🗑️ **Delete Chats** - Remove individual or all chat history
+- ⚡ **Quick Questions** - One-click sample questions to get started
+- 📱 **Responsive Design** - Works perfectly on mobile, tablet, and desktop
+- 🔒 **API Key Security** - Your API key stays on your device only
+- 💾 **Local Storage** - Chats are saved in your browser
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React 18** - Frontend framework
+- **JavaScript ES6+** - Modern JavaScript
+- **CSS3** - Styling with custom animations
+- **Google Gemini API** - AI backend
+- **GitHub Pages** - Free hosting
+
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/ai-chat-app.git
+cd ai-chat-app
